@@ -1,7 +1,7 @@
 # lab_j005
 Inventario
 
-Este codigo incluye login, tabla dinamica, y conexion con base de datos MySQL. También agregé una barra tipo boostrap.
+Este codigo incluye login, tabla dinamica, y conexion con base de datos MySQL. También agregé una barra tipo bootstrap.
 
 Agregaré los links donde obtuve todos los codigos y parte de ellos.
 
