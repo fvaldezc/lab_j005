@@ -5,7 +5,7 @@
     $errors = array();
 
     //connect to the database
-    $db = mysqli_connect('localhost', 'id2026509_fvaldez', '1234567', 'id2026509_registration');
+    $db = mysqli_connect('localhost', 'usuario_base_datos', 'contraseña', 'nombre_de_base_datos'); 
 
     //if the register button is clicked
     if (isset($_POST['register'])) {
