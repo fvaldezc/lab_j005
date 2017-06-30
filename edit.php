@@ -1,5 +1,5 @@
 <?php  
- $connect = mysqli_connect('localhost', 'id2026509_fvaldez', '1234567', 'id2026509_registration');  
+ $connect = mysqli_connect('localhost', 'usuario_base_datos', 'contraseña', 'nombre_de_base_datos'); 
  $id = $_POST["id"];  
  $text = $_POST["text"];  
  $column_name = $_POST["column_name"];  
